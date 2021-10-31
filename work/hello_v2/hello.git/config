@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/Filipp/Desktop/Programmirovanie/Git/git_tutorial/work/hello_v2/hello
